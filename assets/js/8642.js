@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[8642],{8642:(s,e,p)=>{s.exports=p.p+"assets/images/2829bd81c94dadf144bb6.jpg"}}]);
