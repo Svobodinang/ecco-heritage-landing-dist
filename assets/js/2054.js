@@ -1,1 +1,1 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[2054],{2054:(s,e,a)=>{s.exports=a.p+"assets/images/2012614a5b04ae11f049d.jpg"}}]);
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[2054],{2054:(s,e,a)=>{s.exports=a.p+"assets/images/2d1226488e6a9bb16cfac.jpg"}}]);
